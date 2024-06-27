@@ -3,3 +3,5 @@ nest-asyncio==1.5.1
 Werkzeug==2.2.2
 pyngrok==5.1.0
 SQLAlchemy<2.0
+rasa==3.6.20
+packaging==21.3
